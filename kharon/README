@@ -3,5 +3,6 @@ parse C++ source and extract relevant information.
 
 It was not indended to be reusable and was developed to produce bindings to LLVM.
 
-
-
+It relies on the version of libclang package that is supplied in the
+node-libclang directory. Version from npm will not work because it has in incompatible
+API. Kharon was developed before that libclang became available in the npm.
