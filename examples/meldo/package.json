@@ -1,0 +1,10 @@
+{
+  "name": "meldo",
+  "version": "0.0.1",
+  "author": "Vyacheslav Egorov <me@mrale.ph>",
+  "description":  "Evil wrapper around LLVM code generation facilities that allows you to go on rampage in the V8 heap.",
+  "main": "./index",
+  "dependencies": {
+    "llvm": "0.0.1"
+  }
+}

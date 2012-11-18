@@ -1,0 +1,5 @@
+This project provides simple bindings to LLVM's code generation facilities for node.
+
+It is not feature complete and has known problems with memory management. JIT
+datastructures are currently never destroyed so usage of this module
+can lead to memory leaks.

@@ -1,0 +1,11 @@
+{
+  "name": "llvm",
+  "version": "0.0.1",
+  "author": "Vyacheslav Egorov <me@mrale.ph>",
+  "description":  "Bindings to LLVM code generation facilities.",
+  "main": "./index.js",
+  "dependencies": {
+    "bindings": "1.0.0",
+    "libclang": "0.0.1"
+  }
+}

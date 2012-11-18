@@ -1,0 +1,7 @@
+This directory contains kharon --- a simple bindings generator utilizing libclang to
+parse C++ source and extract relevant information.
+
+It was not indended to be reusable and was developed to produce bindings to LLVM.
+
+
+

@@ -1,0 +1,10 @@
+{
+  "name": "libclang",
+  "version": "0.0.1",
+  "author": "Vyacheslav Egorov <me@mrale.ph>",
+  "description":  "Incomplete bindings to libclang existing for sole purpose of generating bindings for LLVM.",
+  "main": "./index",
+  "dependencies": {
+    "bindings": "1.0.0"
+  }
+}
